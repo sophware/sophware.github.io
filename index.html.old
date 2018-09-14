@@ -80,7 +80,7 @@
 <body onload="generateLink()">
 
 	<header>
-		<h1>Mastodon Toot Bookmarklet</h1>
+		<h1>Mastodon Follow Bookmarklet</h1>
 		<h2>Toot the page you're currently on</h2>
 	</header>
 
